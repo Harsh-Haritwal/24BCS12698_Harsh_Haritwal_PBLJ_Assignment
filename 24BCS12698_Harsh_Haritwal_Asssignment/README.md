@@ -1,4 +1,4 @@
-# Swaroop | 24BCS12717 | Student Management REST API Assignment
+# Harsh Haritwal | 24BCS12698 | Student Management REST API Assignment
 
 A Spring Boot REST API for managing student records with Spring Data JPA and MySQL. It supports creating, viewing, updating, deleting, and filtering students by course, with request validation and proper exception handling.
 
