@@ -2,7 +2,7 @@
 
 A Spring Boot REST API for managing student records with Spring Data JPA and MySQL. It supports creating, viewing, updating, deleting, and filtering students by course, with request validation and proper exception handling.
 
-**Repository:** https://github.com/swaroopstack/24BCS12717_Swaroop_PBLJ_Asssignment
+**Repository:** https://github.com/Harsh-Haritwal/24BCS12698_Harsh_Haritwal_PBLJ_Assignment
 
 ## Tech Stack
 
@@ -122,4 +122,4 @@ Expected response: `400 Bad Request`
 - Complete Spring Boot source code — this repository
 - Database configuration — `src/main/resources/application.properties` and `database/schema.sql`
 - Postman screenshots — shown above
-- GitHub repository — https://github.com/swaroopstack/24BCS12717_Swaroop_PBLJ_Asssignment
+- GitHub repository — https://github.com/Harsh-Haritwal/24BCS12698_Harsh_Haritwal_PBLJ_Assignment
